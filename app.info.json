@@ -1,12 +1,12 @@
 {
   "app_name": "test-onboarding-app",
-  "src_hash": "a2554bac56c62752c8fba1cd9e22c79396d3d732",
+  "src_hash": "e13b3d7896a196f3f6a895f2300df7008a702275",
   "src_tag": "",
   "src_branch": "main",
   "patternfly_dependencies": ["@patternfly/react-core@4.135.0","@patternfly/react-table@4.29.0"],
   "travis": {
     "event_type": "push",
-    "build_number": "6",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/test-onboarding-app/builds/233812153"
+    "build_number": "7",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/test-onboarding-app/builds/233813465"
   }
 }

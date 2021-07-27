@@ -1,2 +1,2 @@
 (self.webpackChunktest_onboarding_app=self.webpackChunktest_onboarding_app||[]).push([[196],{4947:(e,n,t)=>{"use strict";t.r(n),t.d(n,{default:()=>i});var l=t(3264),o=t.n(l),u=t(6530),a=t(6350),c=t(167);const i=(0,u.withRouter)((function(){return(0,l.useEffect)((function(){var e,n,t;null===(e=insights)||void 0===e||null===(n=e.chrome)||void 0===n||null===(t=n.appAction)||void 0===t||t.call(n,"oops-page")}),[]),o().createElement(a.Z,null,o().createElement(c.Z,null))}))}}]);
-//# sourceMappingURL=../sourcemaps/OopsPage.6cb80d1c8ad3123fc3b4.js.map
+//# sourceMappingURL=../sourcemaps/OopsPage.a253558545c2dde453ef.js.map
