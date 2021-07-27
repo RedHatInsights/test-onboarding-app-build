@@ -1,2 +1,2 @@
 (self.webpackChunktest_onboarding_app=self.webpackChunktest_onboarding_app||[]).push([[452],{3963:(e,n,t)=>{"use strict";t.r(n),t.d(n,{default:()=>r});var a=t(3264),l=t.n(a),i=t(6530),o=t(6350),s=t(7839);const r=(0,i.withRouter)((function(){return(0,a.useEffect)((function(){var e,n,t;null===(e=insights)||void 0===e||null===(n=e.chrome)||void 0===n||null===(t=n.appAction)||void 0===t||t.call(n,"no-permissions")}),[]),l().createElement(o.Z,null,l().createElement(s.Z,{serviceName:"Sample app"}))}))}}]);
-//# sourceMappingURL=../sourcemaps/NoPermissionsPage.b159e7d2747643a95439.js.map
+//# sourceMappingURL=../sourcemaps/NoPermissionsPage.6cb80d1c8ad3123fc3b4.js.map
